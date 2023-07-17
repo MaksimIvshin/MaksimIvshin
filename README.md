@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksimivshin&label=Profile%20views&color=0e75b6&style=flat" alt="maksimivshin" /> </p>
 
+- 🌱 I’m currently learning **Swift**
+
 - 💬 Ask me about **iOS**
 
 - 📫 How to reach me **mi375293086861@gmail.com**
